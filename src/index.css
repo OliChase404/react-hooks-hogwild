@@ -4,6 +4,19 @@ body {
   font-family: sans-serif;
 }
 
+img{
+  max-width: 25vmin;
+}
+
+.pigFilter{
+  display: block;
+  margin: 6vmin;
+}
+
+.hidden{
+  display: none;
+}
+
 .App {
   margin: 0% 5% 0% 5%;
   text-align: center;
